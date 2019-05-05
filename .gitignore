@@ -1,0 +1,15 @@
+
+venv/
+
+backgrounds/
+
+.ipynb_checkpoints/
+
+__pycache__/
+
+temp/
+
+objects/output/
+
+output/
+
