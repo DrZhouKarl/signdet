@@ -9,7 +9,8 @@ __pycache__/
 
 temp/
 
-objects/output/
-
 output/
 
+YOLO_Formatted/
+
+generated/

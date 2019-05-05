@@ -17,6 +17,9 @@ def motion_blur(img, size=9);
 
 '''
 
+def now_playing(song):
+    print("   ɴᴏᴡ ᴘʟᴀʏɪɴɢ: %s \n───────────────⚪─────────────────── \n◄◄⠀▐▐ ⠀►►⠀⠀ 1:17 / 3:48 ⠀ ───○ 🔊⠀ ᴴᴰ ⚙ ❐ ⊏⊐" % song)
+
 def perspective_transform(im, direction="random", amount=None):
     '''
     Performs a perspective transform on an image. Doesn't 
